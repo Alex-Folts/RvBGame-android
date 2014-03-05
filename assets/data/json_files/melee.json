@@ -1,0 +1,10 @@
+{
+	"health": 300,
+    "energy": 150,
+	"physical_attack": 300,
+    "physical_defence": 150,
+    "intelligence_attack": 150,
+    "intelligence_defence": 150,
+    "targets_num": 1,
+    "range": 1
+}
