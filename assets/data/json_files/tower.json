@@ -1,10 +1,19 @@
 {
 	"health": 300,
     "energy": 300,
-	"physical_attack": 50,
-    "physical_defence": 50,
-    "intelligence_attack": 50,
-    "intelligence_defence": 50,
-    "targets_num": 5,
-    "range": 3
+	"pAttack": 50,
+    "pDefence": 50,
+    "iAttack": 50,
+    "iDefence": 50,
+    "targetsNum": 5,
+    "attackRange": 3,
+    
+    "avaPath": "data/towerimage01.png",
+    "avaTexWidth": 512,
+    "avaTexHeight": 512,
+    "avaSize":
+    {
+    	"x": 128,
+    	"y": 128
+    }
 }
