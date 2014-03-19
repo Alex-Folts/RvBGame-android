@@ -1,10 +1,10 @@
 {
-	"health": 150,
-    "energy": 300,
-	"pAttack": 150,
-    "pDefence": 150,
-    "iAttack": 150,
-    "iDefence": 150,
+	"health": 80,
+    "energy": 100,
+	"pAttack": 25,
+    "pDefence": 5,
+    "iAttack": 25,
+    "iDefence": 10,
     "targetsNum": 5,
     "attackRange": 3,
 
