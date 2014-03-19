@@ -8,7 +8,7 @@
     "targetsNum": 1,
     "attackRange": 1,
     
-    "avaPath": "data/towerimage01.png",
+    "avaPath": "data/defender.png",
     "avaTexWidth": 512,
     "avaTexHeight": 512,
     "avaSize":

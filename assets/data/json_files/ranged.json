@@ -6,5 +6,14 @@
     "iAttack": 300,
     "iDefence": 150,
     "targetsNum": 1,
-    "attackRange": 3
+    "attackRange": 3,
+
+    "avaPath": "data/atacker_ranged.png",
+    "avaTexWidth": 512,
+    "avaTexHeight": 512,
+    "avaSize":
+    {
+    	"x": 48,
+    	"y": 48
+    }
 }
