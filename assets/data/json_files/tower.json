@@ -2,9 +2,9 @@
 	"health": 300,
     "energy": 300,
 	"pAttack": 50,
-    "pDefence": 50,
+    "pDefence": 15,
     "iAttack": 50,
-    "iDefence": 50,
+    "iDefence": 15,
     "targetsNum": 5,
     "attackRange": 3,
     
