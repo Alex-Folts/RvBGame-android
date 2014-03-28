@@ -7,7 +7,7 @@
     "iDefence": 10,
     "targetsNum": 1,
     "attackRange": 1,
-
+    "actionPoints": 1,
     "avaPath": "data/atacker_melee.png",
     "avaTexWidth": 512,
     "avaTexHeight": 512,

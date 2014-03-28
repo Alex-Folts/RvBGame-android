@@ -7,7 +7,8 @@
     "iDefence": 10,
     "targetsNum": 5,
     "attackRange": 3,
-
+    "criticalChance" : 10,
+    "actionPoints": 1,
     "avaPath": "data/mass_ranged.png",
     "avaTexWidth": 512,
     "avaTexHeight": 512,
