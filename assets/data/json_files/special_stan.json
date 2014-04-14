@@ -6,7 +6,7 @@
     "iAttack": 25,
     "iDefence": 15,
     "targetsNum": 1,
-    "attackRange": 2,
+    "attackRange": 3,
     "actionPoints": 1,
     "avaPath": "data/special_stan.png",
     "avaTexWidth": 512,

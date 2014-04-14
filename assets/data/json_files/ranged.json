@@ -6,7 +6,7 @@
     "iAttack": 30,
     "iDefence": 5,
     "targetsNum": 1,
-    "attackRange": 3,
+    "attackRange": 5,
     "criticalChance" : 10,
     "actionPoints": 1,
     "avaPath": "data/atacker_ranged.png",
