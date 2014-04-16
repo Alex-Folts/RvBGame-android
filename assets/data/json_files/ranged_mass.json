@@ -1,4 +1,5 @@
 {
+	"unitName": "Mass atacker",
 	"health": 80,
     "energy": 100,
 	"pAttack": 25,

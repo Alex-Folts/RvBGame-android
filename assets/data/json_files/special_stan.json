@@ -1,4 +1,5 @@
 {
+	"unitName": "Special",
 	"health": 80,
     "energy": 100,
 	"pAttack": 20,

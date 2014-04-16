@@ -1,4 +1,5 @@
 {
+	"unitName": "Defender",
 	"health": 150,
     "energy": 0,
 	"pAttack": 30,

@@ -1,4 +1,5 @@
 {
+	"unitName": "Ranger",
 	"health": 80,
     "energy": 0,
 	"pAttack": 40,

@@ -1,4 +1,5 @@
 {
+	"unitName": "Melee",
 	"health": 100,
     "energy": 0,
 	"pAttack": 40,
