@@ -10,7 +10,7 @@
     "attackRange": 5,
     "criticalChance" : 10,
     "actionPoints": 1,
-    "avaPath": "data/tower_01.png",
+    "avaPath": "data/tower.png",
     "avaTexWidth": 512,
     "avaTexHeight": 512,
     "avaSize":
